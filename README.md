@@ -2,7 +2,7 @@
 
 > **Aero Rakshak** is a disaster-response UAV designed to assist emergency operations by delivering essential supplies to disaster-affected and hard-to-reach areas.
 
-**Developed for:** Smart India Hackathon (SIH) 2025
+**Developed for:** Smart India Hackathon (SIH) 2025 Internal
 **Achievement:** 🥈 **2nd Place**
 **Domain:** Disaster Management | UAV | Robotics | Emergency Response
 
